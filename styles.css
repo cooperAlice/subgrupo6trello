@@ -4,8 +4,10 @@ h1 {
 
 body {
     background-image:url(espacio.jpg)
-    background-color: red
 }
+
+p {background-color: red
+  }
 
 .image{
     border: 5px solid green;
