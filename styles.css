@@ -3,7 +3,7 @@ h1 {
 }
 
 body {
-    background-color: rgb(255, 255, 165);
+    background-image:url(espacio.jpg)
 }
 
 .image{
@@ -22,7 +22,14 @@ body {
     box-shadow: 2px 3px #888888;
 }
 h1{
+    text-align: center;
     font-family: Arial;
+}
+
+h1,h2,p{
+    border-radius: 5px;
+    background-color: #ebebebe5;
+    padding: 20px;
 }
 
 .btn41-43 {
