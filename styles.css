@@ -1,12 +1,11 @@
 body {
     background-color: rgb(255, 255, 165);
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 p {background-color: red;
     color: white;
   }
-  
+
 .image{
     border: 5px solid green;
     border-radius: 10px;
