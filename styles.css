@@ -6,6 +6,10 @@ body {
     background-image:url(espacio.jpg)
 }
 
+p {background-color: red;
+    color: white;
+  }
+
 .image{
     border: 5px solid green;
     border-radius: 10px;
